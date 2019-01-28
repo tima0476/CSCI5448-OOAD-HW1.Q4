@@ -10,4 +10,4 @@ Execution instructions:
 
 From a Unix or MacOS command line, execute ./shapes.py
 
-From Windows, execute "python3 shapes.py"
+From Windows, execute "python3 shapes.py" or "<path to python 3 version of python.exe> shapes.py"
